@@ -1,0 +1,24 @@
+
+#idm {
+	
+	color:orange;
+	font-weight:bold;
+}
+.or{
+	color:green;
+	font-weight:bold;
+}
+#bl {
+	color:brown;
+	font-style:italic;
+}
+p{
+	color:yellow;
+	font-weight:bold;
+	
+}
+	
+	
+body{
+	background:#cecece;
+}
