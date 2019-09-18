@@ -1,0 +1,70 @@
+<html>
+<head>
+    <title>day8 work</title>
+    <link rel="icon" href="">
+<style>
+    .parent{
+        display: flex;
+        flex-wrap: wrap;
+/*        flex-direction: column-reverse;*/
+/*        flex-direction: row-reverse;*/
+        
+    }
+     .child1 {
+        border: 2px solid black;
+        background-color: aqua;
+        height: 200px;
+        width:300px;   
+         border-radius: 50px;
+/*        background-image: linear-gradient(red,green);*/
+        background-image: linear-gradient(to right, yellow, green);
+    }
+    
+    
+    .parent div:nth-child(odd)
+    {
+        
+        background-image: linear-gradient(red,pink);
+        border-radius: 100px;
+    }
+    
+     .child2 {
+        border: 2px solid black;
+         border-radius: 50px;
+        background-color: green;
+        background-image: linear-gradient(red,green);
+        height: 200px;
+        width:300px;   
+        
+    }
+    
+    
+    
+    
+</style>    
+</head>
+<body>
+    <div class="parent">
+        <div class="child1"></div>
+        <div class="child2"></div>
+
+        <div class="child1"></div>
+        <div class="child2"></div>
+
+        <div class="child1"></div>
+        <div class="child2"></div>
+
+        <div class="child1"></div>
+        <div class="child2"></div>
+
+        <div class="child1"></div>
+        <div class="child2"></div>
+        <div class="child1"></div>
+        <div class="child2"></div>
+        <div class="child1"></div>
+        <div class="child2"></div>
+    </div>
+
+    
+</body>
+</html>
