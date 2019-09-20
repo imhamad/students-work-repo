@@ -99,6 +99,13 @@ h3{
     width: 350px;
     height: 100%;
     padding: 10px;
+    
+
+  }
+
+.img2:hover{
+  opacity: 1;
+ 
 }
 
 .img3 img {
