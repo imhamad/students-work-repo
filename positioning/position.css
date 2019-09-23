@@ -1,0 +1,40 @@
+.check{
+ border:1px solid black;
+ width:20%;
+ padding:2rem;
+ position: relative;
+ top:0;
+ left:70%;
+ bottom:0;
+ right:0;
+
+}
+.check-two{
+    
+    border:1px solid black;
+    width:20%;
+    padding:2rem;
+    position: relative;
+    top:10rem;
+    left:70%;
+}
+.check-three{
+    border:1px solid black;
+    width:20%;
+    padding:2rem;
+    position: relative;
+    bottom:25rem;
+    left: 40%;
+}
+.parent{
+    background:#cecece;
+    color:#000;
+    border:5px solid greenyellow;
+    padding:2rem;
+    position: relative;
+    top:-20rem;
+
+}
+.child{
+    /* position: absolute; */
+}
