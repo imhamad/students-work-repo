@@ -62,3 +62,11 @@ ul li{
 
     color:#fff;
 }
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+.fa{
+    font-size:28px;
+    color:greenyellow;
+}
