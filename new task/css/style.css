@@ -9,7 +9,21 @@
     width:150px;
     height: 100px;
 }
-
+.img2,.img3,.img4,img5,img6{
+    transition: all 1s linear;
+}
+.img2:hover{
+    color:green;
+    opacity:0.2;
+}
+.img3:hover{
+    color:#000;
+    opacity:0.2;
+}
+.img4:hover{
+    color:#000;
+    opacity:0.2;
+}
 .image1  img {
     width:350px;
     height: 100%;
