@@ -9,6 +9,7 @@
 
 
 }
+
 .image{
     
     position: sticky;
@@ -25,7 +26,6 @@ ul {
  position:sticky;
     padding: 2rem;
     margin-bottom: 3rem;
-    z-index: 1;
     top:0;
     bottom: 0;
 }
@@ -42,6 +42,7 @@ ul li{
     top:0;
     
 }
+
 .image two{
     display: flex;
     flex-wrap: nowrap;
@@ -50,12 +51,17 @@ ul li{
    
     
 }
+.work {
+    z-index: 1;
+    
+}
 
 .degsin{
     width:250;
     height:200px;
     background:#0692BC;
     border:1px solid black;
+
     
 }
 .devolp{

@@ -1,0 +1,23 @@
+fontsize:
+20px ;
+
+
+font color:black;
+
+font family:
+loto
+
+background color:
+
+
+
+5:55 AM 9/24/2019 this is for degsin 
+
+#5C33C5 this is for devolp 
+
+#002453 this is for testing
+
+#C7243C this is for lanuch 
+ 
+<link href="https://fonts."
+
