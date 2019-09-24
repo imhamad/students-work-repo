@@ -1,0 +1,42 @@
+.container-fluid{
+    width:100%;
+    position: relative;
+    height:800px;
+    
+}
+
+
+.container-fluid img{
+    z-index: 0;
+    width:100%;
+    height: 100%;
+    background-image: url("images/body-bg.jpg");
+}
+
+.container {
+display:flex;
+    width: 100%;
+    flex-wrap: nowrap;
+    z-index: 0;
+    position:absolute;
+    height:700px;
+/*    top: 40px;*/
+    
+    background-image: url("images/container-bg.png");
+}
+.container img {
+    width:50%;
+    
+}
+ .form{
+    background: red;
+ width:50%;
+    height:470px;
+/*    position: absolute;*/
+/*    top:165px;*/
+opacity: 0.5;
+     z-index: 1;
+     
+/*margin-left: -330px;*/
+    
+}
