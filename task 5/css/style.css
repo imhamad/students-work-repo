@@ -1,0 +1,170 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+
+header{
+    width:1400px;
+    height:80px;
+    background:#093459;
+    color: white;
+    position: fixed;
+    font-weight:bolder;
+}
+.menu {
+    display:flex;
+    
+}
+ul li {
+    display: inline;
+    
+    position: relative;
+    
+    padding: 2rem;
+/*    margin-top: 20px;*/
+
+}
+.menu img {
+    width:400px; 
+    height:60px;
+    position:relative;
+    
+    margin-left: 100px;
+}
+.headerimage img {
+    width:1400px;
+    height:600px;
+    
+}
+.headerimage h1{
+    position: relative;
+    color: #fff;
+    top:-400px;
+    left:40%;
+    font-size: 50px;
+}
+
+.headerimage button{
+    position: relative;
+    background: #093459;
+    color: #fff;
+    top:-400px;
+    border:1px solid #093459;
+    border-radius: 4px 4px 4px 4px  ;
+    left:44%;
+    font-size: 30px;
+}
+.heading em {
+    position: relative;
+    top: -60px;
+    font-size: 26px;
+left:43%;
+    
+}
+.heading b{
+    margin-left: 100px;
+    font-size: 25px;
+    left:20px;
+
+    opacity: 0.7;
+}
+.container{
+    max-width: 1100px;
+    margin: auto;
+    background: #fff;
+    
+}
+.icons{
+    display:flex;
+/*    width:250px;*/
+/*    padding: 300px;*/
+/*    margin: 100px;*/
+    
+}
+.icon1 img {
+    width: 200px;
+    position: relative;
+    top:40px;
+    left: 20px;
+    padding: 50px;
+}
+.icon1 p {
+    margin-left: 20px;
+    text-align: center;
+    opacity: 0.6;
+}
+.icon1 b{
+    margin-left: 150px;
+    text-align: center;
+    
+}
+.icon2 img {
+    width: 200px;
+    padding: 50px;
+    position: relative;
+    top:40px;
+    left:20px;
+}
+
+.icon2 p {
+    margin-left: 20px;
+    text-align: center;
+    opacity: 0.6;
+}
+.icon2 b{
+    margin-left: 150px;
+    text-align: center;
+    
+}
+
+.icon3 img {
+    width: 200px;
+    padding: 50px;
+    position: relative;
+    top:40px;
+    margin-left: 50px;
+    
+    
+}
+
+.icon3 p {
+    margin-left: 15px;
+    text-align: center;
+    opacity: 0.6;
+}
+.icon3 b{
+    margin-left: 150px;
+    text-align: center;
+    
+}
+.mainimage{
+    max-width: 1100px;
+    margin: auto;
+    
+    
+}
+.mainimage{
+    display:flex;
+    
+}
+.mainimage p{
+    opacity: 0.6;
+    width:400px;
+}
+.mainimage img {
+    height:300px;
+    width:600px;
+    
+} 
+.image13 img {
+    margin-left: 100px;
+    
+}
+.para2{
+    margin-left: 100px;
+    
+}
