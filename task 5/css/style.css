@@ -96,15 +96,15 @@ left:43%;
     font-size: 20px;
 } 
 .code{
-    background-color:#F7F7F7;
+    background:#F7F7F7;
     border-left: 3px solid black;
     height:40px;
+    color: #979797;
     
     
 }
 .code code{
     margin-left: 10px;
-    
 }
 
 .icons{
